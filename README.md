@@ -35,8 +35,7 @@ I am a dedicated Computer Science and Engineering student and an aspiring Full S
 <p align="left">
 <a href="https://linkedin.com/in/kanok-haque-neu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanok508" height="30" width="40" /></a>
 <a href="https://fb.com/kanok508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanok508" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kanok508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-arrow/master/src/images/icons/Social/leet-code.svg" alt="kanok508" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/kanok508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kanok508" height="30" width="40" /></a>
+
 </p>
 
 ---
