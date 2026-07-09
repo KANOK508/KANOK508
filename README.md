@@ -1,6 +1,6 @@
 <!-- ১. ব্যানার ইমেজ (এখানে তোমার ব্যানারের লাইভ লিঙ্কটি বসাবে) -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Kanok Programmer Banner" width="100%" />
+  <img src="kanok_readme.png" alt="Kanok Programmer Banner" width="100%" />
 </p>
 
 <!-- ২. নাম এবং ডেজিগনেশন (Full Name & Designation) -->
