@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanok Faisal Haque from Bangladesh.</h1>
-<h3 align="center">A programmer who wants to create something useful.</h3>
+<h3 align="center">MERN Stack Developer & Passionate Designer & Animator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanok508&label=Profile%20views&color=0e75b6&style=flat" alt="kanok508" /> </p>
 
