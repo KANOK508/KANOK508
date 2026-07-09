@@ -69,12 +69,12 @@ I am a dedicated Computer Science and Engineering student and an aspiring Full S
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <!-- ১. মূল গিটহাব স্ট্যাটস কার্ড (এটি তোমার কন্ট্রিবিউশন সংখ্যা দেখাবে) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KANOK508&show_icons=true&theme=radial&locale=en" alt="Kanok's GitHub Stats" />
+  <!-- ১. মূল গিটহাব স্ট্যাটসカード -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kanok508&show_icons=true&theme=radial" alt="Kanok's GitHub Stats" />
   <br/><br/>
-  <!-- ২. টপ ল্যাঙ্গুয়েজ কার্ড (ফিক্সড ইউআরএল ফর্মেট) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANOK508&layout=compact&theme=radial&locale=en" alt="Kanok's Top Languages" />
+  <!-- ২. টপ ল্যাঙ্গুয়েজ কার্ড -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanok508&layout=compact&theme=radial" alt="Kanok's Top Languages" />
   <br/><br/>
   <!-- ৩. গিটহাব স্ট্রিক কার্ড -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KANOK508&theme=radial" alt="Kanok's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanok508&theme=radial" alt="Kanok's GitHub Streak" />
 </p>
